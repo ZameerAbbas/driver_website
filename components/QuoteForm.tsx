@@ -86,7 +86,7 @@ export function QuoteForm() {
           name="phone"
           required
           className="w-full px-4 py-2 border border-border rounded-lg bg-card text-card-foreground placeholder-muted-foreground focus:outline-none focus:ring-2 focus:ring-accent"
-          placeholder="(555) 123-4567"
+          placeholder="(337) 492-6772"
         />
       </div>
 

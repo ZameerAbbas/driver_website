@@ -8,14 +8,14 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone',
-      value: '(555) 123-4567',
+      value: '(337) 492-6772',
       action: 'tel:+15551234567',
     },
     {
       icon: Mail,
       title: 'Email',
-      value: 'info@trucklogistics.com',
-      action: 'mailto:info@trucklogistics.com',
+      value: 'rago_d1@icloud.com',
+      action: 'mailto:rago_d1@icloud.com',
     },
     {
       icon: MapPin,
