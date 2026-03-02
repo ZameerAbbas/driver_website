@@ -21,9 +21,9 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 font-bold text-xl">
             <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
-              <span className="text-primary font-bold text-lg">T</span>
+              <span className="text-primary font-bold text-lg">P</span>
             </div>
-            <span className="hidden sm:inline">TruckLogistics</span>
+            <span className="hidden sm:inline">POLO BOYZ TRANSPORT LLC</span>
           </Link>
 
           {/* Desktop Navigation */}

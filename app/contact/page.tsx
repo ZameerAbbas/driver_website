@@ -1,7 +1,7 @@
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { QuoteForm } from '@/components/QuoteForm'
-import { Mail, Phone, MapPin, Clock } from 'lucide-react'
+import { Mail, Phone, MapPin, Clock ,CopyPlus,Notebook} from 'lucide-react'
 
 export default function Contact() {
   const contactInfo = [
@@ -9,7 +9,7 @@ export default function Contact() {
       icon: Phone,
       title: 'Phone',
       value: '(337) 492-6772',
-      action: 'tel:+15551234567',
+      action: 'tel:+13374926772',
     },
     {
       icon: Mail,
@@ -18,9 +18,21 @@ export default function Contact() {
       action: 'mailto:rago_d1@icloud.com',
     },
     {
+      icon: Notebook,
+      title: 'DOT',
+      value: 'DOT4401897',
+      action: 'mailto:rago_d1@icloud.com',
+    },
+    {
+      icon: CopyPlus,
+      title: 'MC',
+      value: 'MC1728023',
+      action: null,
+    },
+    {
       icon: MapPin,
       title: 'Address',
-      value: '1234 Highway Rd, City, ST 12345',
+      value: '129 SAN SEBASTIAN DR, YOUNGSVILLE, LA, 705925',
       action: null,
     },
     {
@@ -194,7 +206,7 @@ export default function Contact() {
               Have a question we didn't answer? Feel free to reach out directly!
             </p>
             <a
-              href="tel:+15551234567"
+              href="tel:+13374926772"
               className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-accent-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all"
             >
               Call Us Now

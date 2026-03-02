@@ -8,7 +8,7 @@ export default function About() {
     {
       year: '2010',
       title: 'Started Operations',
-      description: 'Founded TruckLogistics with a commitment to reliable freight services',
+      description: 'Founded POLO BOYZ TRANSPORT LLC with a commitment to reliable freight services',
     },
     {
       year: '2015',
@@ -73,7 +73,7 @@ export default function About() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">Our Story</h2>
               <p className="text-muted-foreground mb-4">
-                TruckLogistics was founded with a simple mission: to provide reliable, professional freight transportation services that businesses can trust. What started as a single truck operation has grown into a respected name in the logistics industry.
+                POLO BOYZ TRANSPORT LLC was founded with a simple mission: to provide reliable, professional freight transportation services that businesses can trust. What started as a single truck operation has grown into a respected name in the logistics industry.
               </p>
               <p className="text-muted-foreground mb-4">
                 We believe that successful logistics is built on three pillars: reliability, professionalism, and customer service. Every shipment is handled with care, and every commitment is kept. Our customers aren't just clients—they're partners in success.

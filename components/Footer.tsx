@@ -12,9 +12,9 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4 font-bold text-lg">
               <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
-                <span className="text-primary font-bold">T</span>
+                <span className="text-primary font-bold">P</span>
               </div>
-              <span>TruckLogistics</span>
+              <span>POLO BOYZ TRANSPORT LLC</span>
             </div>
             <p className="text-sm text-primary-foreground/80">
               Professional truck driver providing reliable freight and logistics services with years of proven experience.
@@ -93,7 +93,7 @@ export function Footer() {
               </li>
               <li className="flex gap-2">
                 <MapPin size={16} className="mt-0.5 flex-shrink-0" />
-                <span>1234 Highway Rd, City, ST 12345</span>
+                <span>129 SAN SEBASTIAN DR, YOUNGSVILLE, LA, 705925</span>
               </li>
             </ul>
           </div>
@@ -102,7 +102,7 @@ export function Footer() {
         {/* Divider */}
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/80">
-            <p>&copy; {new Date().getFullYear()} TruckLogistics. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} POLO BOYZ TRANSPORT LLC. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-accent transition-colors">
                 Privacy Policy
